@@ -1,0 +1,33 @@
+%%% Notes %%%
+% Author: Oscar Savolainen
+% Directories for data, results, etc. At the beginning of eahc line is the "key", which specifies how the 
+% code will search for the directory. The directory path is located to the right of the key, and is read by the Python
+% scripts by finding the text between single apostrophe marks (so the directory path should be placed to the right of the key
+% between apostrophe marks, e.g. [key = 'C:\bob\desired_path']).
+
+%%%% Directories %%%%
+
+% Root directory, where this file and major sub-directories are located.
+home_directory = 'D:\Dropbox (Imperial NGNI)\NGNI Share\Workspace\Oscar\Work\MUA compression\Upload code'
+
+% Paths to downloaded publicly available (raw) data
+Flint_raw_data_path = 'D:\Dropbox (Imperial NGNI)\NGNI Share\Storage\Neural Data - Community\2012 Flint & Slutzky'
+Sabes_raw_data_path = 'D:\Dropbox (Imperial NGNI)\NGNI Share\Storage\Neural Data - Community\2016-2017 Sabes Lab\Indy'
+
+% Path to where formatted data goes (we format raw data into a standard format for compression and BDP work)
+Formatted_data_path = 'D:\Dropbox (Imperial NGNI)\NGNI Share\Workspace\Oscar\Work\MUA compression\Upload code\Data\Formatting data\Formatted_data'
+
+% SCLV path: where we store the SCLV representations of the Huffman encoders for each S. 
+% Typically located in "Compressing data\Produce SCLVs" directory.
+SCLV_path = 'D:\Dropbox (Imperial NGNI)\NGNI Share\Workspace\Oscar\Work\MUA compression\Upload code\Compressing data\Produce SCLVs'
+
+% Path to BDP results
+BDP_results = 'D:\Dropbox (Imperial NGNI)\NGNI Share\Workspace\Oscar\Work\MUA compression\Upload code\Results\BDP_results'
+
+% Path to compression BR results
+BR_no_sort_results = 'D:\Dropbox (Imperial NGNI)\NGNI Share\Workspace\Oscar\Work\MUA compression\Upload code\Results\BR_results_no_sort'
+BR_approx_sort_results = 'D:\Dropbox (Imperial NGNI)\NGNI Share\Workspace\Oscar\Work\MUA compression\Upload code\Results\BR_results_approx_sort'
+
+
+% Path to combiend results (excel spreadsheet)
+combined_results_excel_path = 'D:\Dropbox (Imperial NGNI)\NGNI Share\Workspace\Oscar\Work\MUA compression\Upload code\Results'

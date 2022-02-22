@@ -1,0 +1,28 @@
+### For calculating the effect of saturating maximum neural MUA binning value at S on behavioral decoding performance.
+
+### How many parallel jobs, depends on the number of recordings and binning values
+###240
+#PBS -J 1-240
+#PBS -l walltime=24:00:00
+#PBS -l select=1:ncpus=32:mem=124gb
+
+##Load needed modules
+module load fix_sysconf
+export OMP_NUM_THREADS=30
+module load anaconda3/personal
+module load anaconda3/personal
+
+PATH=/rds/general/user/ows18/home/:$PATH
+
+source activate MUA_CR_Zheng
+
+
+# Workflow
+source activate MUA_CR_Zheng
+# Launch python, call Python function with PBS_ARRAY_INDEX as input.
+python3 -c 'import os; print(os.getcwd()); new_dir = "/rds/general/user/ows18/home"; os.chdir(new_dir); print(os.getcwd()); import Flint_HPC_BDP_S_train_rerun; Flint_HPC_BDP_S_train_rerun.S_BDP_PBS_Flint_mat_input()'
+
+# old: S_v_BDP_HPC_Flint_mat_input (need to set params)
+
+
+###(int(${PBS_ARRAY_INDEX}))
