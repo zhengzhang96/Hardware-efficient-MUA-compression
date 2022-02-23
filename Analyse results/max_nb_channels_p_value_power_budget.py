@@ -2,10 +2,10 @@
 """
 Created on Wed Jan 12 03:53:30 2022
 
-Basically, we're checking how mnay channels we cna have in FPGA. Some channels
+Basically, we're checking how many channels we can have in FPGA. Some channels
 have higher BRs that others. So what's the worst case? Take random sample of
 all considered channels, take the total BR, and add the ADC and static power,
-comm enerry per bit, ge tthe total power. If it exceeds the heating limit, 
+comm energy per bit, get the total power. If it exceeds the heating limit, 
 mark it (matrix called temp at the end). Each column in temp corresponds to a 
 number of considered channels, given in 'nb_channels_vec'. This basically gives
 the p-value.
