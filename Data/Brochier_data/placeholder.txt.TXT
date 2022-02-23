@@ -1,0 +1,1 @@
+So that when we upload to Github, this empty folder isn't ignored.
