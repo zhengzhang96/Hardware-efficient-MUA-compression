@@ -13,9 +13,10 @@ home_directory = 'D:\Dropbox (Imperial NGNI)\NGNI Share\Workspace\Oscar\Work\MUA
 % Paths to downloaded publicly available (raw) data
 Flint_raw_data_path = 'D:\Dropbox (Imperial NGNI)\NGNI Share\Storage\Neural Data - Community\2012 Flint & Slutzky'
 Sabes_raw_data_path = 'D:\Dropbox (Imperial NGNI)\NGNI Share\Storage\Neural Data - Community\2016-2017 Sabes Lab\Indy'
+Brochier_raw_data_path = 'D:\Dropbox (Imperial NGNI)\NGNI Share\Workspace\Oscar\Work\MUA compression\Thomas_Brochier_data'
 
 % Path to where formatted data goes (we format raw data into a standard format for compression and BDP work)
-Formatted_data_path = 'D:\Dropbox (Imperial NGNI)\NGNI Share\Workspace\Oscar\Work\MUA compression\Upload code\Data\Formatting data\Formatted_data'
+Formatted_data_path = 'D:\Dropbox (Imperial NGNI)\NGNI Share\Workspace\Oscar\Work\MUA compression\Upload code\Data\Formatted_data'
 
 % SCLV path: where we store the SCLV representations of the Huffman encoders for each S. 
 % Typically located in "Compressing data\Produce SCLVs" directory.
