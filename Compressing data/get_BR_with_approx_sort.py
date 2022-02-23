@@ -16,8 +16,19 @@ import copy
 import re
 
 
+################### SELECT OPTION, PARAMETERS ############################
+
+# Parameters
+samples_per_channel_for_histogram_vector = pow(2,np.array([2,3,4,5,6,7,8,9,10])) # size of on-implant histogram
+train_percentage = 50 # half of channels are for training, half for validation, for each cross-validation (CV) split
+how_many_channels_Sabes = 2000 # we limit the number of Sabes channels since there ar eonly 960 Flint channels, this prevents the results from overfitting to the Sabes data
+nb_CV_iterations = 30
+
 # Specify root directory (where directories.txt file is located)
 root_directory = r'D:\Dropbox (Imperial NGNI)\NGNI Share\Workspace\Oscar\Work\MUA compression\Upload code'
+
+##########################################################################
+
 
 # Read directories.txt file
 with open(root_directory + '\directories.txt') as f:
@@ -42,14 +53,11 @@ for path in lines:
         pattern = "'(.*?)'"
         SCLV_directory = re.search(pattern, path).group(1)
         
-        
-# Parameters
-samples_per_channel_for_histogram_vector = pow(2,np.array([2,3,4,5,6,7,8,9,10]))
-train_percentage = 50 # half of channels are for training, half for validation, for each cross-validation (CV) split
-how_many_channels_Sabes = 2000 # we limit the number of Sabes channels since there ar eonly 960 Flint channels, this prevents the results from overfitting to the Sabes data
+    
+
 
 # Load binned MUA data
-file_name = data_directory + '\\all_binned_data.pkl'
+file_name = data_directory + '\\all_binned_data_train.pkl'
 with open(file_name, 'rb') as file:      
     results = pickle.load(file)
     all_binned_data = results['all_binned_data']
@@ -59,7 +67,7 @@ results = [] # clear variable
 
 
 # Iterate through cross-validation iterations
-for CV_iteration in np.arange(1,30,1):
+for CV_iteration in np.arange(1,nb_CV_iterations,1):
 
     # Iterate through different BPs
     for BP_counter, bin_resolution in enumerate(bin_vector):
