@@ -60,10 +60,8 @@ for column in np.arange(max_col-min_col):
         value = str(val1)
         if value != '':
             excel_results[row_index,column] = float(value)
-# =============================================================================
-#         else:
-#             excel_results[row_index,column] = float('NaN')
-# =============================================================================
+        else:
+            excel_results[row_index,column] = float('NaN')
    
 # Remove NaN values (rows for which some key value, e.g. BDP, is missing, so 
 # no point plotting it)
