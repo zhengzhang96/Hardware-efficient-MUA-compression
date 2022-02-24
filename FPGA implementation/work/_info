@@ -1,0 +1,252 @@
+m255
+K4
+z2
+!s11f vlog 2020.3 2020.10, Oct 14 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FPGA/compression/multiple_encoder/final
+vbinner_f
+Z0 !s110 1643229098
+!i10b 1
+!s100 ?S[364MC2mdce^GP]1lN=0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IM?albF_mQ3^];0;1TbSGi3
+Z2 dD:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression
+w1643227193
+8D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/1_binner_final.v
+FD:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/1_binner_final.v
+!i122 49
+L0 5 67
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OT;L;2020.3;71
+r1
+!s85 0
+31
+Z5 !s108 1643229098.000000
+!s107 params.v|D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/1_binner_final.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/1_binner_final.v|
+!s101 -O0
+!i113 1
+Z6 o-work work -O0
+Z7 tCvgOpt 0
+vbrute_sorter
+R0
+!i10b 1
+!s100 b^UMBnHbY@6GnSN8_b;NW2
+R1
+IH<4fUdgh80UaAoZkjBgD=1
+R2
+w1643227564
+8D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/3_bruforse-sorter.v
+FD:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/3_bruforse-sorter.v
+!i122 51
+L0 5 41
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 params.v|D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/3_bruforse-sorter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/3_bruforse-sorter.v|
+!s101 -O0
+!i113 1
+R6
+R7
+vclock_divier
+Z8 !s110 1643229099
+!i10b 1
+!s100 S2FEMUDahZGnCNalnIZ:e0
+R1
+I?PH5P=XTDazj[aXlHXO7b0
+R2
+w1637671916
+8D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/clock_divier.v
+FD:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/clock_divier.v
+!i122 55
+L0 1 21
+R3
+R4
+r1
+!s85 0
+31
+Z9 !s108 1643229099.000000
+!s107 D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/clock_divier.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/clock_divier.v|
+!s101 -O0
+!i113 1
+R6
+R7
+vdualRam
+R8
+!i10b 1
+!s100 T[B@bU@BWiU`K6KFb[;YL2
+R1
+I1KXOLKGE1IoKgK^`BFb4W3
+R2
+w1639418528
+8D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/RAM.v
+FD:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/RAM.v
+!i122 57
+L0 2 21
+R3
+R4
+r1
+!s85 0
+31
+R9
+!s107 params.v|D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/RAM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/RAM.v|
+!s101 -O0
+!i113 1
+R6
+R7
+ndual@ram
+vencoder_3
+R8
+!i10b 1
+!s100 mz<IZ6RbZQ[6jdYRj=fzh1
+R1
+IJ;3zA5LChLg?9lzaOFl:o0
+R2
+w1643227828
+8D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/5_encoder_3.v
+FD:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/5_encoder_3.v
+!i122 54
+L0 5 53
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 params.v|D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/5_encoder_3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/5_encoder_3.v|
+!s101 -O0
+!i113 1
+R6
+R7
+vhist_unsort
+R0
+!i10b 1
+!s100 L1h0HTe;?_kk^4HO=P9FX2
+R1
+I_6Jd[POgRbJVl4cT4>Z`m1
+R2
+w1643227518
+8D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/2_hist.v
+FD:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/2_hist.v
+!i122 50
+L0 3 110
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 params.v|D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/2_hist.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/2_hist.v|
+!s101 -O0
+!i113 1
+R6
+R7
+vmapper
+R0
+!i10b 1
+!s100 l=zTlR7=I7YJ^=IXHPd:A3
+R1
+IUlhzdDlPldbMV>eOaVYg?1
+R2
+w1643227690
+8D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/4_1_mapper.v
+FD:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/4_1_mapper.v
+!i122 52
+L0 3 19
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 params.v|D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/4_1_mapper.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/4_1_mapper.v|
+!s101 -O0
+!i113 1
+R6
+R7
+vselector_3
+R0
+!i10b 1
+!s100 7mA_CA[2>zRYO8>9FlLOR3
+R1
+Idib[?NcDbhY^`ghb_@BQM1
+R2
+w1643227793
+8D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/4_selector_3.v
+FD:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/4_selector_3.v
+!i122 53
+L0 7 52
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 params.v|D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/4_selector_3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/4_selector_3.v|
+!s101 -O0
+!i113 1
+R6
+R7
+vtb_whole_system
+R8
+!i10b 1
+!s100 mSmTCX_@3YjID`d7diYoR2
+R1
+IBWecUQzDgZjY4L<IO7la40
+R2
+w1643229089
+8D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/tb_whole_system.v
+FD:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/tb_whole_system.v
+!i122 58
+L0 2 151
+R3
+R4
+r1
+!s85 0
+31
+R9
+!s107 params.v|D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/tb_whole_system.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/tb_whole_system.v|
+!s101 -O0
+!i113 1
+R6
+R7
+vwhole_system
+R8
+!i10b 1
+!s100 ?aZUD=00O;73;3>]Ldl<:2
+R1
+I_>NOhggj?f^EFZl`REb:O2
+R2
+w1643227924
+8D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/multichannel_encoder.v
+FD:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/multichannel_encoder.v
+!i122 56
+L0 3 87
+R3
+R4
+r1
+!s85 0
+31
+R9
+!s107 params.v|D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/multichannel_encoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/multichannel_encoder.v|
+!s101 -O0
+!i113 1
+R6
+R7

@@ -1,0 +1,67 @@
+{D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/1_binner_final.v} {1 {vlog -work work -stats=none {D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/1_binner_final.v}
+Model Technology ModelSim - Lattice FPGA Edition vlog 2020.3 Compiler 2020.10 Oct 14 2020
+-- Compiling module binner_f
+
+Top level modules:
+	binner_f
+
+} {} {}} {D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/multichannel_encoder.v} {1 {vlog -work work -stats=none {D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/multichannel_encoder.v}
+Model Technology ModelSim - Lattice FPGA Edition vlog 2020.3 Compiler 2020.10 Oct 14 2020
+-- Compiling module whole_system
+
+Top level modules:
+	whole_system
+
+} {} {}} {D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/4_1_mapper.v} {1 {vlog -work work -stats=none {D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/4_1_mapper.v}
+Model Technology ModelSim - Lattice FPGA Edition vlog 2020.3 Compiler 2020.10 Oct 14 2020
+-- Compiling module mapper
+
+Top level modules:
+	mapper
+
+} {} {}} {D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/RAM.v} {1 {vlog -work work -stats=none {D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/RAM.v}
+Model Technology ModelSim - Lattice FPGA Edition vlog 2020.3 Compiler 2020.10 Oct 14 2020
+-- Compiling module dualRam
+
+Top level modules:
+	dualRam
+
+} {} {}} {D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/params.v} {1 {vlog -work work -stats=none {D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/params.v}
+Model Technology ModelSim - Lattice FPGA Edition vlog 2020.3 Compiler 2020.10 Oct 14 2020
+
+} {} {}} {D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/2_hist.v} {1 {vlog -work work -stats=none {D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/2_hist.v}
+Model Technology ModelSim - Lattice FPGA Edition vlog 2020.3 Compiler 2020.10 Oct 14 2020
+-- Compiling module hist_unsort
+
+Top level modules:
+	hist_unsort
+
+} {} {}} {D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/3_bruforse-sorter.v} {1 {vlog -work work -stats=none {D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/3_bruforse-sorter.v}
+Model Technology ModelSim - Lattice FPGA Edition vlog 2020.3 Compiler 2020.10 Oct 14 2020
+-- Compiling module brute_sorter
+
+Top level modules:
+	brute_sorter
+
+} {} {}} {D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/4_selector_3.v} {1 {vlog -work work -stats=none {D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/4_selector_3.v}
+Model Technology ModelSim - Lattice FPGA Edition vlog 2020.3 Compiler 2020.10 Oct 14 2020
+-- Compiling module selector_3
+
+Top level modules:
+	selector_3
+
+} {} {}} {D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/5_encoder_3.v} {1 {vlog -work work -stats=none {D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/5_encoder_3.v}
+Model Technology ModelSim - Lattice FPGA Edition vlog 2020.3 Compiler 2020.10 Oct 14 2020
+-- Compiling module encoder_3
+
+Top level modules:
+	encoder_3
+
+} {} {}} {D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/clock_divier.v} {1 {vlog -work work -stats=none {D:/Dropbox/Dropbox (Imperial NGNI)/NGNI Share/Workspace/Zheng/Student Projects/Alex-platform/Code for Alex/Compression/clock_divier.v}
+Model Technology ModelSim - Lattice FPGA Edition vlog 2020.3 Compiler 2020.10 Oct 14 2020
+-- Compiling module clock_divier
+
+Top level modules:
+	clock_divier
+
+} {} {}}

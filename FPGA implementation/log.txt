@@ -1,0 +1,192 @@
+time = 244960 channel_count =    z spike_number_out = 3 max_rate = 0 rate_out = 1 codeword = 00010 length = 2 
+
+time = 244980 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = 00000 length = 3 
+
+time = 245000 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245020 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245040 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245060 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245080 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245100 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245120 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245140 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245160 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245180 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245200 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245220 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245240 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245260 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245280 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245300 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245320 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245340 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245360 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245380 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245400 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245420 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245440 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245460 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245480 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245500 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245520 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245540 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245560 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245580 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245600 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245620 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245640 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245660 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245680 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245700 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245720 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245740 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245760 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245780 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245800 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245820 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245840 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245860 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245880 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245900 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245920 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245940 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245960 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 245980 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 246000 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 246020 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 246040 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 246060 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 246080 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 246100 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 246120 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 246140 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 246160 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 246180 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 246200 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 246220 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 246240 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 246260 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 246280 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 246300 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 246320 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 246340 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 246360 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 246380 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 246400 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 246420 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 246440 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 246460 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 246480 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 246500 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 246520 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 246540 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 246560 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 246580 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 246600 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 246620 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 246640 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 246660 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 246680 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 246700 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 246720 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 246740 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 246760 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 246780 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 246800 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 246820 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 246840 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
+time = 246860 channel_count =    z spike_number_out = 1 max_rate = 0 rate_out = 3 codeword = xxxxx length = x 
+
